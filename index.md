@@ -8,4 +8,11 @@ Philip Johnson attended an Emergency Preparedness Fair at the Windward Mall in M
  * [hnl.info](hnl-info.html)
  * [Kailua Alert and Prepared](kailua-alert-and-prepared.html)
  * [Neighborhood Security Watch](neighborhood-security-watch.html)
+ 
+## HEMA resources
+ 
+In addition, here are useful resources from the Hawaii Emergency Management Agency:
+  
+  * [Prepare your family](http://dod.hawaii.gov/hiema/get-ready/prepare-your-family/)
+  * [Prepare your home](http://dod.hawaii.gov/hiema/get-ready/prepare-your-home/)
 
